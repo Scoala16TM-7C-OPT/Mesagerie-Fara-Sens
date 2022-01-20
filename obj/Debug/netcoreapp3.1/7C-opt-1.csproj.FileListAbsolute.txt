@@ -1,0 +1,15 @@
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.exe
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.deps.json
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.runtimeconfig.json
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.runtimeconfig.dev.json
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.dll
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\bin\Debug\netcoreapp3.1\7C-opt-1.pdb
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.csproj.AssemblyReference.cache
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\_7C_opt_1.Form1.resources
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.csproj.GenerateResource.cache
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.AssemblyInfoInputs.cache
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.AssemblyInfo.cs
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.csproj.CoreCompileInputs.cache
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.dll
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.pdb
+C:\Users\vlada\source\repos\7C-opt-1\7C-opt-1\obj\Debug\netcoreapp3.1\7C-opt-1.genruntimeconfig.cache
